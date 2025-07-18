@@ -1,0 +1,13 @@
+{
+    "firstCommit": "2025/7/18",
+    "lastCommit": "2025/7/18",
+    "record": {
+        "spamming": 1
+    },
+    "records": [
+        {
+            "source": "multi",
+            "reason": "Spamming (advertising) across multi servers, see https://shorturl.at/wpRp8"
+        }
+    ]
+}
